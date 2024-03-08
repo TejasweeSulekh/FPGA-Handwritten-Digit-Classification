@@ -7,3 +7,5 @@ Done by
 
 - Tejaswee Sulekh
 - Hemant Hajare
+
+This project was influenced by - https://github.com/code2k13/rpipico_digit_classification?tab=readme-ov-file
